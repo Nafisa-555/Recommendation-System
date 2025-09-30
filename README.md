@@ -2,6 +2,7 @@
 ##  Project Name: Coders of Delhi
 
 This project involved two major parts:
+
 1.] Data Cleaning - I worked with a messy JSON file and cleaned it using only basic Python 
 👉 Best part? No libraries - no Pandas, NumPy, Matplotlib, or even Machine Learning involved!
 
